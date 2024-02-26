@@ -1,0 +1,13 @@
+name = "Too Many Players"
+filename = "toomanyplayers-1.20.4-1.1.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/KPVN4aiJ/versions/IZpinQyC/toomanyplayers-1.20.4-1.1.5.jar"
+hash-format = "sha1"
+hash = "7e69f2a7831f4068eba129a8a0b808a81dcd674e"
+
+[update]
+[update.modrinth]
+mod-id = "KPVN4aiJ"
+version = "IZpinQyC"

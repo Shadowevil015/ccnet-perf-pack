@@ -1,0 +1,13 @@
+name = "CCNet Perf Pack"
+author = "Shadowevil015"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "8d0159cd059177c26704038fcc680ba904c2dd8a9d53b17af09ca25d919e85fb"
+
+[versions]
+fabric = "0.15.7"
+minecraft = "1.20.4"
